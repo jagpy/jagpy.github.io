@@ -4,4 +4,4 @@ I am a radiation oncologist. I treat cancers in the pelvic region. I am also int
 You can find me [here](https://www.google.com/)
 
 ## My image
-![testimage](images/sunrise%20coconut%20trees.jpg)
+![testimage](images/sunrise.jpg)
