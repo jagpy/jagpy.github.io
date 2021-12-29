@@ -1,6 +1,6 @@
 # Jag
 ## About me
-I am a radiation oncologist. I treat cancers in the pelvic region. I am also interested in creating projects which help in collating information on the diseases i treat and analyses it to derive some meaningful info.
+I am a radiation oncologist. I treat patients with cancers in the pelvic region. I am also interested in doing IT projects which help in collating information on the diseases I treat and analyse it to derive some meaningful info.
 You can find me [here](https://www.google.com/)
 
 ## My image
