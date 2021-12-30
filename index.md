@@ -7,6 +7,6 @@ You can find me [here](https://www.google.com/)
 ![testimage](images/sunrise.jpg)
 
 ## My IT experience
-Used MS Access between 2013 and 2019.
+Created basic IO forms using MS Access between 2013 and 2019.
 
-Moved over to using web based app development since 2019.
+Moved over to using web based app since 2019.
